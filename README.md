@@ -1,4 +1,5 @@
-                                          ![Screenshot 2024-10-07 105301](https://github.com/user-attachments/assets/5df82ed6-e0be-426a-8564-7c5c3243da1c)
+                                          ![Screenshot 2024-10-07 105301](https://github.com/user-attachments/assets/12100466-4d49-45a5-b979-1eb8982c5285)
+
 
 # Cryptography --- 19CS412 - Pseudorandom Number Generation
 # Exp 6 - Implementation of Pseudorandom Number Generation using Standard library
