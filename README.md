@@ -1,4 +1,6 @@
-                                          ![Screenshot 2024-10-07 105301](https://github.com/user-attachments/assets/12100466-4d49-45a5-b979-1eb8982c5285)
+
+                                          ![Screenshot 2024-10-07 105301](https://github.com/user-attachments/assets/c8a21dbc-bc6b-4e8b-bb29-e08399690ce4)
+
 
 
 # Cryptography --- 19CS412 - Pseudorandom Number Generation
